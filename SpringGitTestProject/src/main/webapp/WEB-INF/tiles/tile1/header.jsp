@@ -41,6 +41,9 @@
 				</c:if>
 			</ul></li>
 		<li><a href="#">메뉴 3</a></li>
+		<li><a href="#">메뉴 4</a></li>
+		<li><a href="#">메뉴 5</a></li>
+		
 		
 		<!-- === #49. 로그인이 성공되어지면 로그인되어진 사용자의 이메일 주소를 출력하기 === -->
 		<c:if test="${sessionScope.loginuser != null}">
